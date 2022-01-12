@@ -1,2 +1,21 @@
 # windows-terminal-dracula
-Dracula color scheme
+background <span style="background-color: #282A36; border-radius: 6px; width: 16px; color: #fff; font-weight: bold; padding: 2px 5px 2px 5px">#282A36</span><br>
+black <span style="background-color: #21222C; border-radius: 6px; width: 16px; color: #fff; font-weight: bold; padding: 2px 5px 2px 5px">#21222C</span><br>
+blue <span style="background-color: #BD93F9; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#BD93F9</span><br>
+brightBlack <span style="background-color: #6272A4; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#6272A4</span><br>
+brightBlue <span style="background-color: #D6ACFF; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#D6ACFF</span><br>
+brightCyan <span style="background-color: #A4FFFF; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#A4FFFF</span><br>
+brightGreen <span style="background-color: #69FF94; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#69FF94</span><br>
+brightPurple <span style="background-color: #FF92DF; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#FF92DF</span><br>
+brightRed <span style="background-color: #FF6E6E; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#FF6E6E</span><br>
+brightWhite <span style="background-color: #FFFFFF; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#FFFFFF</span><br>
+brightYellow <span style="background-color: #FFFFA5; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#FFFFA5</span><br>
+cursorColor <span style="background-color: #FFFFFF; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#FFFFFF</span><br>
+cyan <span style="background-color: #8BE9FD; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#8BE9FD</span><br>
+foreground <span style="background-color: #F8F8F2; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#F8F8F2</span><br>
+green <span style="background-color: #50FA7B; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#50FA7B</span><br>
+purple <span style="background-color: #FF79C6; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#FF79C6</span><br>
+red <span style="background-color: #FF5555; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#FF5555</span><br>
+selectionBackground <span style="background-color: #6272A4; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#6272A4</span><br>
+white <span style="background-color: #F8F8F2; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#F8F8F2</span><br>
+yellow <span style="background-color: #F1FA8C; border-radius: 6px; width: 16px; color: #282A36; font-weight: bold; padding: 2px 5px 2px 5px">#F1FA8C</span><br>
