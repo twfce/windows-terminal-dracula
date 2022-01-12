@@ -1,4 +1,3 @@
-windows-terminal: Dracula Color Scheme
-======================================
+# Windows Terminal: Dracula Color Scheme
 
 ![colors](assets/colors.png)
